@@ -1,8 +1,8 @@
 # BusinessIntelligence.ai
 
 > **An evidence-backed KPI intelligence-to-action engine that detects material KPI movements, diagnoses root drivers, corroborates multi-source evidence, communicates calibrated uncertainty, and supports actionable executive business decisions.**
->
-> A live interactive MVP demonstrating evidence-backed KPI intelligence-to-action workflows.
+
+### 🚀 [Live Interactive Demo](https://business-intelligence-ai-tau.vercel.app/) &nbsp;|&nbsp; 📂 [GitHub Repository](https://github.com/Marcus-Aurelius1/business-intelligence-ai)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://business-intelligence-ai-tau.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-16.3.3-black?style=flat&logo=next.js)](https://nextjs.org/)
@@ -10,14 +10,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38bdf8?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-
----
-
-## Live Demo
-
-🚀 **[Launch BusinessIntelligence.ai](https://business-intelligence-ai-tau.vercel.app/)**
-
-Experience the live interactive decision intelligence engine directly in your browser with real-time scenario switching, driver decomposition, evidence lineage exploration, and human-in-the-loop decision gating.
 
 ---
 
