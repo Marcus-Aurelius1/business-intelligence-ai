@@ -39,3 +39,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.agent/
+BusinessIntelligence_AI_Round2_MVP_PRD_Context copy.md

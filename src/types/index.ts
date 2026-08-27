@@ -67,6 +67,8 @@ export interface Recommendation {
   confidence: number;
   monitoringPlan: string;
   routing: 'recommend' | 'review' | 'escalate';
+  // Present when the system abstains and needs a human to clarify before acting.
+  clarificationQuestion?: string;
 }
 
 // Persona Types
